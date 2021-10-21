@@ -20,7 +20,7 @@ body {
 main {
   background: url(images/background.svg);
   width: 375px;
-  height: 800px;
+  height: 100vh;
   border-radius: 10px;
 }
 
